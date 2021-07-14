@@ -1,4 +1,4 @@
-### Hi there 👋
+Student who pretends to know how to program
 
 <!--
 **Antaraki2004/Antaraki2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
